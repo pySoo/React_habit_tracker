@@ -9,6 +9,7 @@
 ## 기능
 ### 1. 목표 설정 및 세부 항목 기록
 <img width="400" alt="1" src="https://user-images.githubusercontent.com/55135881/142326294-bd1bdaac-66e3-404d-97c5-9bb233eabf54.PNG">
+화면 상단에 오늘의 날짜와 이번 주 달력이 표시됩니다. <br>
 목표를 입력할 수 있고 목표마다 세부 항목을 기록할 수 있습니다.
 <br>
 
