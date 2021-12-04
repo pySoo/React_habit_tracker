@@ -2,9 +2,9 @@
 ## 주제 :memo:
 습관 기록용 웹 페이지
 ## 내용
-- 사용 기술: React hook, styled-components, Netlify(배포)
+- 사용 기술: React hook, Context API, useReducer, styled-components, Netlify(배포)
 - 배포 url: https://pysoo-habit-tracker.netlify.app/
-- 본 프로젝트는 React hook 학습을 위해 제작되었습니다.
+- 본 프로젝트는 React hook, React 성능 최적화와 상태 관리에 대한 학습을 위해 제작되었습니다.
    
 ## 기능
 ### 1. 목표 설정 및 세부 항목 기록
